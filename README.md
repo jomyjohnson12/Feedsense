@@ -28,8 +28,9 @@ Database: SQLite
 AI/ML: Python (e.g., scikit-learn or NLTK for sentiment analysis)
 
 Installation
+-----
 Run backend 
----------
+----
 cd Backend
 python -m venv venv
 source venv/bin/activate
